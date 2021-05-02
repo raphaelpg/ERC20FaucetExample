@@ -1,4 +1,4 @@
-# ERC20 Example Faucet
+# ERC20 Faucet Example
 
 This is an ERC20 Faucet template to deploy on the blockchain.  
 
